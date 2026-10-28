@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.sample
+
+.ai*
+
+# Generated data and local environments
+data/
